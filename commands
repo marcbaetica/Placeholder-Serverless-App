@@ -1,0 +1,6 @@
+# All of them look for template.yaml file.
+
+sam validate
+sam build
+sam local invoke
+sam deploy --guided
